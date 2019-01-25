@@ -1,6 +1,12 @@
-
-$body-bg:                   #444;
-$body-color:                #fff;
+$primary-color:     #fff;
+$secondary-color:   #0f5f5c;
+$grey:              #83a7a5;
+$green:             #6fb048;
+$grey-color:        #bec8c8;
+$search:            #eef1ec;
+$bottom-color-:     rgba(255, 255, 255, 0.35);
+$line:              rgba(255, 255, 255, 0.2);
+$h-color:           rgba(131, 167, 165, 0.5);
 
 $grid-breakpoints: ();
 $grid-breakpoints: map-merge(
