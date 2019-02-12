@@ -1,0 +1,9 @@
+.section_home_1 {
+  background: linear-gradient(
+                  rgba(45, 110, 112, 0.9),
+                  rgba(45, 110, 112, 0.9)
+  ),
+  url(../img/home/masthead.png) no-repeat;
+  background-size: cover;
+  color: $primary-color;
+}

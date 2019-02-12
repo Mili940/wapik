@@ -1,0 +1,21 @@
+.header__button {
+  padding: 8px 14px;
+  font-size: 15px;
+  float: right;
+  margin: 8px 0 0 0;
+  &:hover {
+    background-color: $green;
+    @include transition(all ,0.8s);
+  }
+}
+
+button {
+  border-radius: 5px!important;
+  cursor: pointer;
+  color: $primary-color;
+  border: 0;
+}
+
+.header__button-color {
+  background-color: $button-color;
+}
