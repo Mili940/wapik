@@ -6,7 +6,14 @@
     <link rel="stylesheet" href="stylesheets/style.css" />
 </head>
 <body>
-<h1>Naslov</h1>
+    <section class="section_contact_1">
+        <?php include "components/header.php"?>
+
+    </section>
+
+    <section class="section-contact-8">
+        <?php include "components/footer.php"?>
+    </section>
 
 <script src="javascript/main.min.js"></script>
 </body>
