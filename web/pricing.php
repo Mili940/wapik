@@ -5,6 +5,8 @@
     <title>Title</title>
     <link rel="stylesheet" href="stylesheets/style.css" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="img/favicon.ico" type="image/x-icon">
 </head>
 <body>
     <section class="section-pricing-1">
