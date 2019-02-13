@@ -1,0 +1,58 @@
+.section-pricing-1 {
+  padding: 0 0 46px 0;
+  background-color: $search;
+  .logo__name{
+    color: $secondary-color !important;
+
+    &:hover {
+      color: $green !important;
+    }
+  }
+
+  .header {
+    border-bottom: 1px solid $h-color;
+  }
+
+  .number {
+    color: $h-color;
+  }
+
+  .phone {
+    color: $h-color;
+  }
+
+  .line {
+    border-left: 1px solid $h-color;
+  }
+
+  .menu-navigation__item {
+    color: $grey !important;
+
+    &:hover{
+      color: $secondary-color !important;
+    }
+  }
+
+  .header__button {
+    background-color: $green;
+
+    &:hover{
+      background-color: $grey;
+    }
+  }
+}
+
+.features__head-pricing {
+  padding: 57px 0 30px 0;
+}
+
+.section-pricing-1__limited {
+  padding: 30px 0 0 0;
+}
+
+.section-pricing-3 {
+  color: $secondary-color;
+  background-image: url(../img/home/calltoaction.png);
+  background-size: cover;
+  padding: 72px 0 59px 0;
+}

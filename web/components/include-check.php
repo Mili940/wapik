@@ -1,48 +1,50 @@
-<div class="include-check">
+<div class="include-check container">
     <div class="features__head">
         <h3>Include with all Plans</h3>
         <hr class="hr_all">
-        <div class="row">
-            <div class="col-md-4">
-                <div class="row plan-check">
-                    <img class="check__img" src="img/home/vector_s_o.png">
-                    <p class="check__p">Maecenas faucibus mollis intedum</p>
+        <div class="include-check__plan">
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="row plan-check">
+                        <img class="check__img" src="img/home/vector_s_o.png">
+                        <p class="check__p">Maecenas faucibus mollis intedum</p>
+                    </div>
+                    <div class="row plan-check">
+                        <img class="check__img" src="img/home/vector_s_o.png">
+                        <p class="check__p">Cras justo odio, dapibus ac facilisis</p>
+                    </div>
+                    <div class="row plan-check">
+                        <img class="check__img" src="img/home/vector_s_o.png">
+                        <p class="check__p">Fringilla Mattis</p>
+                    </div>
                 </div>
-                <div class="row plan-check">
-                    <img class="check__img" src="img/home/vector_s_o.png">
-                    <p class="check__p">Cras justo odio, dapibus ac facilisis</p>
+                <div class="col-md-4">
+                    <div class="row plan-check">
+                        <img class="check__img" src="img/home/vector_s_o.png">
+                        <p class="check__p">Vestibulum id ligula porta felis euismod</p>
+                    </div>
+                    <div class="row plan-check">
+                        <img class="check__img" src="img/home/vector_s_o.png">
+                        <p class="check__p">Duis mollis, est non commodo luctus</p>
+                    </div>
+                    <div class="row plan-check">
+                        <img class="check__img" src="img/home/vector_s_o.png">
+                        <p class="check__p">Integer posuere</p>
+                    </div>
                 </div>
-                <div class="row plan-check">
-                    <img class="check__img" src="img/home/vector_s_o.png">
-                    <p class="check__p">Fringilla Mattis</p>
-                </div>
-            </div>
-            <div class="col-md-4">
-                <div class="row plan-check">
-                    <img class="check__img" src="img/home/vector_s_o.png">
-                    <p class="check__p">Vestibulum id ligula porta felis euismod</p>
-                </div>
-                <div class="row plan-check">
-                    <img class="check__img" src="img/home/vector_s_o.png">
-                    <p class="check__p">Duis mollis, est non commodo luctus</p>
-                </div>
-                <div class="row plan-check">
-                    <img class="check__img" src="img/home/vector_s_o.png">
-                    <p class="check__p">Integer posuere</p>
-                </div>
-            </div>
-            <div class="col-md-4">
-                <div class="row plan-check">
-                    <img class="check__img" src="img/home/vector_s_o.png">
-                    <p class="check__p">Nulla vitae elit libero, a pharetra augue</p>
-                </div>
-                <div class="row plan-check">
-                    <img class="check__img" src="img/home/vector_s_o.png">
-                    <p class="check__p">Curabitur blandit tempus porttior</p>
-                </div>
-                <div class="row plan-check">
-                    <img class="check__img" src="img/home/vector_s_o.png">
-                    <p class="check__p">Nullam quis risus eget urna mollis</p>
+                <div class="col-md-4">
+                    <div class="row plan-check">
+                        <img class="check__img" src="img/home/vector_s_o.png">
+                        <p class="check__p">Nulla vitae elit libero, a pharetra augue</p>
+                    </div>
+                    <div class="row plan-check">
+                        <img class="check__img" src="img/home/vector_s_o.png">
+                        <p class="check__p">Curabitur blandit tempus porttior</p>
+                    </div>
+                    <div class="row plan-check">
+                        <img class="check__img" src="img/home/vector_s_o.png">
+                        <p class="check__p">Nullam quis risus eget urna mollis</p>
+                    </div>
                 </div>
             </div>
         </div>

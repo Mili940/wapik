@@ -135,7 +135,7 @@
                 <hr class="hr_all">
                 <p class="p-for-all">Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh.<br>Donec id elit non mi porta gravida at eget metus.</p>
             </div>
-            <?php include "components/pricing.php"?>
+            <?php include "components/pricing-table.php" ?>
             <?php include "components/include-check.php"?>
         </div>
     </section>
