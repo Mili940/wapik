@@ -1,0 +1,89 @@
+.section-contact-1 {
+  .logo__name{
+    color: $secondary-color !important;
+
+    &:hover {
+      color: $green !important;
+    }
+  }
+
+  .header {
+    border-bottom: 1px solid $primary-color;
+  }
+
+  .number {
+    color: $h-color;
+  }
+
+  .phone {
+    color: $h-color;
+  }
+
+  .line {
+    border-left: 1px solid $h-color;
+  }
+
+  .menu-navigation__item {
+    color: $grey !important;
+
+    &:hover{
+      color: $secondary-color !important;
+    }
+  }
+
+  .header__button {
+    background-color: $green;
+
+    &:hover{
+      background-color: $grey;
+    }
+  }
+}
+
+.section-contact-2{
+  background: url(../img/mhContactUs.png)
+  no-repeat;
+  background-size: cover;
+  height: 400px
+}
+
+.section-contact-3 {
+  padding: 75px 0 0 0;
+}
+
+.section-contact-4 {
+  color: $secondary-color;
+  background-image: url(../img/home/calltoaction.png);
+  background-size: cover;
+  padding: 72px 0 59px 0;
+}
+
+.contact-form {
+  text-align: left;
+  padding: 62px 0 102px 0;
+}
+
+.contact-form__input {
+  width: 100%;
+  height: 46px;
+  margin: 0 0 25px 0;
+  padding: 0 0 0 20px;
+  border: 1px solid $h-color;
+}
+
+.information {
+  border: 2px dashed $h-color;
+  padding: 24px 0 40px 40px;
+  color: $green;
+}
+
+.contact-form__textarea {
+  width: 100%;
+  margin: 0 0 25px 0;
+  padding: 10px 0 0 20px;
+  border: 1px solid rgba(131, 167, 165, 0.5);
+}
+
+.information__fa-fa {
+  margin: 4px 10px 0 0;
+}

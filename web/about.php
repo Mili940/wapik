@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Title</title>
+    <title>About</title>
     <link rel="stylesheet" href="stylesheets/style.css" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
@@ -80,7 +80,7 @@
     <section class="section-about-4 container-fluid">
         <?php include "components/download.php"?>
     </section>
-    <section class="section-about-8">
+    <section class="section-about-5">
         <?php include "components/footer.php"?>
     </section>
 <script src="javascript/main.min.js"></script>

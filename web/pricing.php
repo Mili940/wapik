@@ -26,7 +26,7 @@
     <section class="section-pricing-3">
         <?php include "components/download.php"?>
     </section>
-    <section class="section-pricing-8">
+    <section class="section-pricing-4">
         <?php include "components/footer.php"?>
     </section>
 <script src="javascript/main.min.js"></script>
