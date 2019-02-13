@@ -25,7 +25,57 @@
         </div>
     </section>
     <section class="section-about-3">
-
+        <div class="container">
+            <div class="features__head">
+                <h1>Meet Our Team</h1>
+                <hr class="hr_all">
+                <p class="p-for-all">Curabitur blandit tempus porttitor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia<br> odio sem nec elit. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
+            </div>
+            <div class="slider-container row">
+                <div class="slider-single col-md-3">
+                    <img class="ourTeamImg" src="img/aboutUS/Joyice.png">
+                    <div class="positionPara">
+                        <p class="h_color p_f">Joyce Hudson</p>
+                        <p class="p-for-all">Founder & Designer</p>
+                    </div>
+                </div>
+                <div class="slider-single col-md-3">
+                    <img class="ourTeamImg" src="img/aboutUS/Angela.png">
+                    <div class="positionPara">
+                        <p class="h_color p_f">Angela Campbell</p>
+                        <p class="p-for-all">Project Manager</p>
+                    </div>
+                </div>
+                <div class="slider-single col-md-3">
+                    <img class="ourTeamImg" src="img/aboutUS/James.png">
+                    <div class="positionPara">
+                        <p class="h_color p_f">James Walker</p>
+                        <p class="p-for-all">Developer</p>
+                    </div>
+                </div>
+                <div class="slider-single col-md-3">
+                    <img class="ourTeamImg" src="img/aboutUS/Joyice.png">
+                    <div class="positionPara">
+                        <p class="h_color p_f">Joyce Hudson</p>
+                        <p class="p-for-all">Founder & Designer</p>
+                    </div>
+                </div>
+                <div class="slider-single col-md-3">
+                    <img class="ourTeamImg" src="img/aboutUS/Angela.png">
+                    <div class="positionPara">
+                        <p class="h_color p_f">Angela Campbell</p>
+                        <p class="p-for-all">Project Manager</p>
+                    </div>
+                </div>
+                <div class="slider-single col-md-3">
+                    <img class="ourTeamImg" src="img/aboutUS/James.png">
+                    <div class="positionPara">
+                        <p class="h_color p_f">James Walker</p>
+                        <p class="p-for-all">Developer</p>
+                    </div>
+                </div>
+            </div>
+        </div>
     </section>
     <section class="section-about-4 container-fluid">
         <?php include "components/download.php"?>
@@ -34,5 +84,7 @@
         <?php include "components/footer.php"?>
     </section>
 <script src="javascript/main.min.js"></script>
+<script src="javascript/slick-slider.js"></script>
+<script src="javascript/slick.js"></script>
 </body>
 </html>
