@@ -1,0 +1,26 @@
+.pricing1 {
+  border: 1px solid $grey-color;
+  width: 250px;
+  height: 371px;
+  text-align: center;
+}
+
+.pricing__head {
+  padding: 20px 0 0 0;
+  text-transform: uppercase;
+  font-size: 17px;
+  font-weight: 500;
+  color: #6fb048;
+}
+
+.pricing__money {
+  font-size: 65px;
+  font-weight: 600;
+  color: $secondary-color;
+}
+
+.pricing__month {
+  font-size: 17px;
+  font-weight: 600;
+  color: $secondary-color;
+}

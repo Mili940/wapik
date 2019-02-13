@@ -1,0 +1,92 @@
+.footer__logo {
+  text-transform: uppercase;
+  font-size: 30px;
+  font-weight: 900;
+}
+
+.footer {
+  font-size: 15px;
+  color: $grey!important;
+  font-weight: 500;
+  list-style: none;
+  h3 {
+    color: $secondary-color;
+    margin: 0 0 14px 0;
+  }
+}
+
+.footer-navigation__item {
+  color: $grey;
+  padding: 0 0 16px 0;
+  text-transform: uppercase;
+
+  &:hover{
+    color: $secondary-color;
+    @include transition(all ,0.4s);
+  }
+}
+
+.footer-navigation__iteem {
+  padding: 0 0 16px 0;
+}
+
+.footer-menu {
+  font-weight: 600;
+}
+
+.footer__input {
+  border: none;
+  padding: 7px 16px;
+  background: url(../img/home/icon_footer.png)
+  no-repeat
+  #eef1ec
+  206px;
+  width: 240px;
+}
+
+::placeholder {
+  font-size: 15px;
+  color: #83a7a5;
+  font-weight: 500;
+}
+
+.social {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+}
+.twitter {
+  background-color: #55acee;
+  display: -webkit-box;
+  -webkit-box-pack: center;}
+
+.facebook {
+  background-color: #3b5998;
+  display: -webkit-box;
+  -webkit-box-pack: center;}
+
+.instagram {
+  background-color: #3f729b;
+  display: -webkit-box;
+  -webkit-box-pack: center;}
+
+.dribbble {
+  background-color: #ea4c89;
+  display: -webkit-box;
+  -webkit-box-pack: center;}
+
+.github {
+  background-color: #333333;
+  display: -webkit-box;
+  -webkit-box-pack: center;
+}
+
+.bottom-menu {
+  border-top: 1px solid $grey;
+  margin: 10px 0 0 0;
+  padding: 15px 0 10px 0;
+}
+
+.footer__social {
+  padding: 0 15px 0 0;
+}
