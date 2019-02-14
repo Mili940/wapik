@@ -4,7 +4,7 @@
         <hr class="hr_all">
         <div class="include-check__plan">
             <div class="row">
-                <div class="col-md-4">
+                <div class="col-md-4 col-md-6">
                     <div class="row plan-check">
                         <img class="check__img" src="img/home/vector_s_o.png">
                         <p class="check__p">Maecenas faucibus mollis intedum</p>
@@ -18,12 +18,12 @@
                         <p class="check__p">Fringilla Mattis</p>
                     </div>
                 </div>
-                <div class="col-md-4">
+                <div class="col-md-4 plan-check-none">
                     <div class="row plan-check">
                         <img class="check__img" src="img/home/vector_s_o.png">
                         <p class="check__p">Vestibulum id ligula porta felis euismod</p>
                     </div>
-                    <div class="row plan-check">
+                    <div class="row plan-check ">
                         <img class="check__img" src="img/home/vector_s_o.png">
                         <p class="check__p">Duis mollis, est non commodo luctus</p>
                     </div>
@@ -32,7 +32,7 @@
                         <p class="check__p">Integer posuere</p>
                     </div>
                 </div>
-                <div class="col-md-4">
+                <div class="col-md-4 col-md-6">
                     <div class="row plan-check">
                         <img class="check__img" src="img/home/vector_s_o.png">
                         <p class="check__p">Nulla vitae elit libero, a pharetra augue</p>
