@@ -20,7 +20,7 @@
             <p class="p-for-all">We are here to help. Want to learn more about our services?<br>Please get in touch, we'd love to hear from you!</p>
             <div class="contact-form">
                 <div class="row justify-content-center">
-                    <div class="col-md-4 col-sm-8 col-8">
+                    <div class="col-md-4">
                         <form>
                             <input class="contact-form__input" type="text" placeholder="Name">
                             <input class="contact-form__input" type="text" placeholder="Email">
@@ -29,7 +29,7 @@
                         </form>
                         <button class="head-line__button">Send Message</button>
                     </div>
-                    <div class="col-md-2 col-sm-4 col-8">
+                    <div class="col-md-2">
                         <div class="information">
                             <h5 class="h_color h5_size ">Headquater</h5>
                             <div class="row">
@@ -57,5 +57,7 @@
         <?php include "components/footer.php"?>
     </section>
 <script src="javascript/main.min.js"></script>
+<script src="javascript/slick-slider.js"></script>
+<script src="javascript/slick.js"></script>
 </body>
 </html>

@@ -45,9 +45,10 @@
                             </ul>
                         </div>
                     </div>
-                    <div class="col-md-3">
+                    <div class="col-md-4">
                         <button class="header__button header__button-color">GET STARTED</button>
                     </div>
+                    <button class="menu-btn"><i class="fa fa-bars fa-2x" aria-hidden="true"></i></button>
                 </div>
             </div>
         </div>
