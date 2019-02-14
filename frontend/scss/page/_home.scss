@@ -53,6 +53,10 @@
   padding: 58px 0 0 0;
   text-align: left;
 
+  h3 {
+    color: $secondary-color;
+  }
+
   img {
     padding: 0 20px 20px 20px;
   }
@@ -61,7 +65,7 @@
 .section_home_3 {
   padding: 75px 0 0 0;
   background-color: $search;
-  h2 {
+  h2, h3 {
     color: $secondary-color;
   }
 }
@@ -84,6 +88,10 @@
 
 .section_home_4 {
   padding: 140px 0
+}
+
+.imgR {
+  width: 100%;
 }
 
 .home-4__p-theme {
@@ -115,6 +123,14 @@
 
 .built {
   padding: 105px 0 0 0;
+}
+
+.hand{
+  width: 100%;
+}
+
+.image-planet {
+  width: 100%;
 }
 
 .section-home-6 {

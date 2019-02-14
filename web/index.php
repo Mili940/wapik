@@ -147,6 +147,8 @@
     <section class="section-home-8">
         <?php include "components/footer.php"?>
     </section>
-<script src="javascript/main.min.js"></script>
+    <script src="javascript/main.min.js"></script>
+    <script src="javascript/slick-slider.js"></script>
+    <script src="javascript/slick.js"></script>
 </body>
 </html>
