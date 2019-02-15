@@ -14,13 +14,13 @@
     </section>
     <section class="section-contact-2 container-fluid"></section>
     <section class="section-contact-3">
-        <div class="features__head">
+        <div class="features__head container">
             <h1>Get In Touch With Us</h1>
             <hr class="hr_all">
             <p class="p-for-all">We are here to help. Want to learn more about our services?<br>Please get in touch, we'd love to hear from you!</p>
             <div class="contact-form">
                 <div class="row justify-content-center">
-                    <div class="col-md-4">
+                    <div class="col-md-6">
                         <form>
                             <input class="contact-form__input" type="text" placeholder="Name">
                             <input class="contact-form__input" type="text" placeholder="Email">
@@ -29,7 +29,7 @@
                         </form>
                         <button class="head-line__button">Send Message</button>
                     </div>
-                    <div class="col-md-2">
+                    <div class="col-md-3">
                         <div class="information">
                             <h5 class="h_color h5_size ">Headquater</h5>
                             <div class="row">

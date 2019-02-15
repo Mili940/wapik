@@ -1,4 +1,4 @@
-<div class="pricing">
+<div class="pricing container">
     <div class="row justify-content-center">
         <div class="pricing1">
             <p class="pricing__head">Basic</p>

@@ -5,6 +5,7 @@
 }
 
 .footer {
+  margin: 20px 0 0 0;
   font-size: 15px;
   color: $grey!important;
   font-weight: 500;
@@ -40,8 +41,8 @@
   background: url(../img/home/icon_footer.png)
   no-repeat
   #eef1ec
-  206px;
-  width: 240px;
+  200px;
+  width: 230px;
 }
 
 ::placeholder {
@@ -83,7 +84,7 @@
 
 .bottom-menu {
   border-top: 1px solid rgba(0,0,0,.1);;
-  margin: 10px 0 0 0;
+  margin: 20px 0 0 0;
   padding: 15px 0 10px 0;
 }
 
