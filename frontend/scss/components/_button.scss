@@ -1,0 +1,46 @@
+.header__button {
+  padding: 8px 14px;
+  font-size: 15px;
+  float: right;
+  margin: 8px 0 0 0;
+  &:hover {
+    background-color: $green;
+    @include transition(all ,0.8s);
+  }
+}
+
+button {
+  border-radius: 5px!important;
+  cursor: pointer;
+  color: $primary-color;
+  border: 0;
+  text-transform: uppercase;
+}
+
+.header__button-color {
+  background-color: $button-color;
+}
+
+%button__all {
+  padding: 11px 25px;
+  font-size: 15px;
+  font-weight: 500;
+}
+
+.head-line__button {
+  @extend %button__all;
+  background-color: $green;
+  &:hover {
+    background-color: $grey;
+    @include transition(all ,0.8s);
+  }
+}
+
+.pricing__button {
+  @extend %button__all;
+  background-color: $grey;
+  &:hover {
+    background-color: $green;
+    @include transition(all ,0.8s);
+  }
+}

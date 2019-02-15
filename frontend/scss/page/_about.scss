@@ -1,0 +1,43 @@
+.section-about-1 {
+  background:
+          no-repeat
+          linear-gradient(
+                          rgba(45, 110, 112, 0.7),
+                          rgba(45, 110, 112, 0.7)
+          ),
+          url(../img/aboutUS/mhAbout.png);
+  background-size: cover;
+  color: #ffffff;
+}
+
+.section_about_1__content {
+  padding: 210px 0 198px 0;
+  text-align: center;
+}
+
+.content-hero {
+  margin: 0 0 40px 0;
+}
+
+.section-about-2 {
+  padding: 70px 0 84px 0;
+  text-align: center;
+}
+
+.section-about-3 {
+  padding: 70px 0 84px 0;
+  background-color: $search;
+}
+
+.section-about-4{
+  background-image: url(../img/aboutUS/callTo.png);
+  background-size: cover;
+  padding: 72px 0 59px 0;
+  button {
+    background-color: #49732f;
+  }
+  p {
+    color: #fff;
+  }
+  color: #fff;
+}

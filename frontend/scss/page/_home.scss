@@ -1,0 +1,149 @@
+.section_home_1 {
+  background: linear-gradient(
+                  rgba(45, 110, 112, 0.9),
+                  rgba(45, 110, 112, 0.9)
+  ),
+  url(../img/home/masthead.png) no-repeat;
+  background-size: cover;
+  color: $primary-color;
+}
+
+.head-line {
+  padding: 210px 0 198px 15px;
+}
+
+.section_home_2 {
+  padding: 90px 15px 110px 15px;
+  text-align: center;
+}
+
+.p-for-all {
+  font-size: 15px;
+  color: $grey;
+  font-weight: 500;
+}
+
+.div0 {
+  width: 45px;
+  height: 90px;
+  border-bottom: 2px solid $div-te;
+}
+
+.div1 {
+  border-right: 1px solid $div-te;
+}
+
+.div2 {
+  border-left: 1px solid $div-te;
+}
+
+.hr_all {
+  width: 65px;
+  background-color: $green;
+}
+
+.features__head {
+  text-align: center;
+  h1,h2,h3,h4,h5 {
+    color: $secondary-color;
+  }
+}
+
+.feature__colum-other {
+  padding: 58px 0 0 0;
+  text-align: left;
+
+  h3 {
+    color: $secondary-color;
+  }
+
+  img {
+    padding: 0 20px 20px 20px;
+  }
+}
+
+.section_home_3 {
+  padding: 75px 0 0 0;
+  background-color: $search;
+  h2, h3 {
+    color: $secondary-color;
+  }
+}
+
+.check {
+  padding: 12px 0;
+}
+
+.check__p {
+  margin-bottom: 0!important;
+  font-size: 15px;
+  color: $grey;
+  font-weight: 500;
+}
+
+.check__img {
+  padding: 0 15px;
+  height: 25px;
+}
+
+.section_home_4 {
+  padding: 140px 0
+}
+
+.imgR {
+  width: 100%;
+}
+
+.home-4__p-theme {
+  padding: 90px 0 0 0;
+  font-size: 22px;
+  font-family: 'Merriweather';
+  color: $grey;
+}
+
+.home-4__p-valeria{
+  padding: 6px 0 0 0;
+  margin: 0 0 8px 0;
+  font-size: 14px;
+  color: #6fb048;
+}
+
+.home-4__p-acme{
+  font-size: 14px;
+  color: $grey;
+}
+
+.section_home_5{
+  padding: 60px 0;
+  background-color: $search;
+  h2{
+    color: $secondary-color;
+  }
+}
+
+.built {
+  padding: 105px 0 0 0;
+}
+
+.hand{
+  width: 100%;
+}
+
+.image-planet {
+  width: 100%;
+}
+
+.section-home-6 {
+  padding: 95px 0 0 0;
+}
+
+.plan-pricing {
+  padding: 0 0 24px 0;
+}
+
+.section-home-7{
+  color: $secondary-color;
+  background-image: url(../img/home/calltoaction.png);
+  background-size: cover;
+  padding: 72px 0 59px 0;
+}

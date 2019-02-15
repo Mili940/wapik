@@ -1,0 +1,56 @@
+.header {
+  padding: 27px 0 0 0;
+  text-transform: uppercase;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+.menu-navigation__list {
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style: none;
+}
+
+.menu-navigation__item {
+  color: #bec8c8!important;
+  &:hover{
+    color: $primary-color!important;
+    @include transition(all ,0.4s);
+  }
+}
+
+.logo__name {
+  font-weight: bold;
+  color: $primary-color !important;
+  &:hover{
+    color: $green !important;
+    @include transition(all ,0.8s);
+  }
+}
+
+.line {
+  border-left: 1px solid $button-color;
+  height: 31px;
+  margin: 10px 0 0 0;
+}
+
+.contact-phone {
+  margin: 10px;
+}
+
+.menu-btn {
+  display: none;
+}
+
+.phone {
+  color: $button-color;
+  padding-right: 7px;
+}
+
+.menu-navigation{
+  font-family: 'Montserrat';
+  font-size: 15px;
+  padding-top: 15px;
+}

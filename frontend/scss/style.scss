@@ -1,0 +1,44 @@
+@import "abstracts/_variables.scss";
+
+@import "abstracts/functions";
+
+@import "abstracts/mixins";
+
+@import "bootstrap";
+
+@import "base/base";
+
+@import "components/button";
+
+@import "components/pricing-table";
+
+@import "components/include-check";
+
+@import "components/downolad";
+
+@import "components/feature-colum";
+
+@import "components/slick";
+
+@import "layout/header";
+
+@import "layout/footer";
+
+@import "page/home";
+
+@import "page/about";
+
+@import "page/contact";
+
+@import "page/pricing";
+
+@import "responsive/min-1440&max-1599";
+
+@import "responsive/min-1366&max-1439";
+
+@import "responsive/min-1280&max-1365";
+
+@import "responsive/min-1024&max-1279";
+
+@import "responsive/min-960&max-1023";
+
