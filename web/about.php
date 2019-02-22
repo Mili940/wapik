@@ -10,10 +10,12 @@
 </head>
 <body>
     <section class="section-about-1">
-        <?php include "components/header.php"?>
-        <div class="section_about_1__content">
-            <h1 class="content-hero">Cras justo odio, dapibus ac facilisis in<br> egestas eget quam</h1>
-            <button class="head-line__button">Start Your Free Trial</button>
+        <div class="container">
+            <?php include "components/header.php"?>
+            <div class="section_about_1__content">
+                <h1 class="content-hero">Cras justo odio, dapibus ac facilisis in<br> egestas eget quam</h1>
+                <button class="head-line__button">Start Your Free Trial</button>
+            </div>
         </div>
     </section>
     <section class="section-about-2">
@@ -34,46 +36,58 @@
                 <p class="p-for-all">Curabitur blandit tempus porttitor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia<br> odio sem nec elit. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
             </div>
             <div class="slider-container row">
-                <div class="slider-single col-md-3">
-                    <img class="ourTeamImg" src="img/aboutUS/Joyice.png">
-                    <div class="positionPara">
-                        <p class="h_color p_f">Joyce Hudson</p>
-                        <p class="p-for-all">Founder & Designer</p>
+                <div class="slider-single">
+                    <div class="slider-single__container">
+                        <img class="ourTeamImg" src="img/aboutUS/Joyice.png">
+                        <div class="positionPara">
+                            <p class="h_color p_f">Joyce Hudson</p>
+                            <p class="p-for-all">Founder & Designer</p>
+                        </div>
                     </div>
                 </div>
-                <div class="slider-single col-md-3">
-                    <img class="ourTeamImg" src="img/aboutUS/Angela.png">
-                    <div class="positionPara">
-                        <p class="h_color p_f">Angela Campbell</p>
-                        <p class="p-for-all">Project Manager</p>
+                <div class="slider-single">
+                    <div class="slider-single__container">
+                        <img class="ourTeamImg" src="img/aboutUS/Angela.png">
+                        <div class="positionPara">
+                            <p class="h_color p_f">Angela Campbell</p>
+                            <p class="p-for-all">Project Manager</p>
+                        </div>
                     </div>
                 </div>
-                <div class="slider-single col-md-3">
-                    <img class="ourTeamImg" src="img/aboutUS/James.png">
-                    <div class="positionPara">
-                        <p class="h_color p_f">James Walker</p>
-                        <p class="p-for-all">Developer</p>
+                <div class="slider-single">
+                    <div class="slider-single__container">
+                        <img class="ourTeamImg" src="img/aboutUS/James.png">
+                        <div class="positionPara">
+                            <p class="h_color p_f">James Walker</p>
+                            <p class="p-for-all">Developer</p>
+                        </div>
                     </div>
                 </div>
-                <div class="slider-single col-md-3">
-                    <img class="ourTeamImg" src="img/aboutUS/Joyice.png">
-                    <div class="positionPara">
-                        <p class="h_color p_f">Joyce Hudson</p>
-                        <p class="p-for-all">Founder & Designer</p>
+                <div class="slider-single">
+                    <div class="slider-single__container">
+                        <img class="ourTeamImg" src="img/aboutUS/Joyice.png">
+                        <div class="positionPara">
+                            <p class="h_color p_f">Joyce Hudson</p>
+                            <p class="p-for-all">Founder & Designer</p>
+                        </div>
                     </div>
                 </div>
-                <div class="slider-single col-md-3">
-                    <img class="ourTeamImg" src="img/aboutUS/Angela.png">
-                    <div class="positionPara">
-                        <p class="h_color p_f">Angela Campbell</p>
-                        <p class="p-for-all">Project Manager</p>
+                <div class="slider-single">
+                    <div class="slider-single__container">
+                        <img class="ourTeamImg" src="img/aboutUS/Angela.png">
+                        <div class="positionPara">
+                            <p class="h_color p_f">Angela Campbell</p>
+                            <p class="p-for-all">Project Manager</p>
+                        </div>
                     </div>
                 </div>
-                <div class="slider-single col-md-3">
-                    <img class="ourTeamImg" src="img/aboutUS/James.png">
-                    <div class="positionPara">
-                        <p class="h_color p_f">James Walker</p>
-                        <p class="p-for-all">Developer</p>
+                <div class="slider-single">
+                    <div class="slider-single__container">
+                        <img class="ourTeamImg" src="img/aboutUS/James.png">
+                        <div class="positionPara">
+                            <p class="h_color p_f">James Walker</p>
+                            <p class="p-for-all">Developer</p>
+                        </div>
                     </div>
                 </div>
             </div>

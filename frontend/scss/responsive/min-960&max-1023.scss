@@ -1,4 +1,60 @@
-@media (min-width: 960px) and (max-width: 1023px) {
+
+
+@media (max-width: 1199px) {
+  .slick-list {
+    width: 850px !important;
+  }
+}
+
+@media (max-width: 991px) {
+
+  .slick-list {
+    width: 600px !important;
+  }
+}
+
+@media (max-width: 767px) {
+
+  .slick-list {
+    width: 435px !important;
+  }
+}
+
+@media (max-width: 575px) {
+  .left-arrow {
+    display: none !important;
+  }
+
+  .right-arrow {
+    display: none !important;
+  }
+}
+
+@media (min-width: 320px) and (max-width: 767px) {
+
+  .slick-list{
+    margin: auto;
+    width: 290px !important;
+  }
+}
+
+@media (min-width: 1024px) and (max-width: 1199px) {
+
+  .ourTeamImg {
+    width: 260px;
+  }
+  .positionPara {
+    margin: 0px 0 0 12px;
+  }
+}
+
+@media only screen and (max-width: 1023px){
+
+  .positionPara {
+    margin: 0px 0 0 63px;
+  }
+}
+/* {
   .menu-btn {
     display: block;
     margin-left: auto;
@@ -160,3 +216,4 @@
 
 }
 
+*/

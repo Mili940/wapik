@@ -25,11 +25,9 @@
   display: block;
   overflow: hidden;
 
-  margin: 0;
+  margin: 0 40px;
   padding: 0;
-  width: 1080px;
-  margin-left: auto;
-  margin-right: auto;
+  width: 1030px;
 }
 .slick-list:focus
 {
@@ -136,4 +134,19 @@
   margin-bottom: 0px;
   bottom: 180px;
   right: 0;
+}
+/*
+.slider-single {
+  display: -webkit-box;
+    -webkit-box-align: center;
+    -webkit-box-pack: center;
+
+}*/
+.positionPara {
+  margin: 0 0 0 22px;
+}
+
+.ourTeamImg {
+  margin-left: auto;
+  margin-right: auto;
 }

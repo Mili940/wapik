@@ -3,6 +3,7 @@
   font-size: 15px;
   float: right;
   margin: 8px 0 0 0;
+  font-family: 'Montserrat';
   &:hover {
     background-color: $green;
     @include transition(all ,0.8s);

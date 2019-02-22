@@ -1,8 +1,8 @@
 <div class="footer">
     <div class="container">
         <div class="menu-navigation__footer">
-            <div class="row">
-                <div class="col-md-3 col-sm-4 col-4">
+            <div class="row justify-content-center">
+                <div class="col-lg-3 col-md-6 col-sm-10 col-10">
                     <a href="../index.php">
                         <h3 class="footer__logo">Wapik</h3>
                     </a>
@@ -10,7 +10,7 @@
                     <li class="footer-navigation__iteem">p: +62 202 555 0117</li>
                     <li class="footer-navigation__iteem">a: 610 Overlook Ciracle Suite 323<br>Kalamazoo, MI49009</li>
                 </div>
-                <div class="col-md-3 col-sm-4 col-4">
+                <div class="col-lg-3 col-md-6 col-sm-10 col-10">
                     <h3 class="footer-menu">Company</h3>
                     <a href="../index.php">
                         <li class="footer-navigation__item">Home</li>
@@ -25,7 +25,7 @@
                         <li class="footer-navigation__item">Contact Us</li>
                     </a>
                 </div>
-                <div class="col-md-3 other">
+                <div class="col-lg-3 col-md-6 col-sm-10 col-10 other">
                     <h3 class="footer-menu">Others</h3>
                     <a href="#">
                         <li class="footer-navigation__item">Help & Support</li>
@@ -40,7 +40,7 @@
                         <li class="footer-navigation__item">Sitemap</li>
                     </a>
                 </div>
-                <div class="col-md-3 col-sm-4 col-4">
+                <div class="col-lg-3 col-md-6 col-sm-10 col-10">
                     <h3 class="footer-menu">Newsletter</h3>
                     <p>Subscribe to our newsletter and get all the cool news</p>
                     <input class="footer__input" type="text" placeholder="Enter Email">
