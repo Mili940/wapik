@@ -1,9 +1,15 @@
 #Wapik
 
-- This is just simple solution for Wapik PSD.
+ This is just simple solution for Wapik PSD.
 
-#Getting Started
+##Getting Started
 
-- Clone the repository
-```git clone https://github.com/Mili940/wapik.git```
-- Run NPM: ```npm install```
+Download project, set up your environment.
+- Download project...
+- Open file...
+- Change...
+
+##Author    
+
+- **Achmad Kamal** - *Designer*
+- **Milan** - *Developer* - [Profile](https://github.com/Mili940)
