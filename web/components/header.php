@@ -26,21 +26,25 @@
         </div>
         <div class="col-md-6 col-sm-6 col-6">
             <div class="row justify-content-between">
+
                 <div class="menu-navigation col-xl-8 col-lg-12">
-                    <ul class="menu-navigation__list justify-content-between">
-                        <a href="../index.php">
-                            <li class="menu-navigation__item">Home</li>
-                        </a>
-                        <a href="../about.php">
-                            <li class="menu-navigation__item">About Us</li>
-                        </a>
-                        <a href="../pricing.php">
-                            <li class="menu-navigation__item">Pricing</li>
-                        </a>
-                        <a href="../contact.php">
-                            <li class="menu-navigation__item">Contact Us</li>
-                        </a>
-                    </ul>
+                    <div class="container">
+                        <ul class="menu-navigation__list justify-content-between">
+                            <a href="../index.php">
+                                <li class="menu-navigation__item">Home</li>
+                            </a>
+                            <a href="../about.php">
+                                <li class="menu-navigation__item">About Us</li>
+                            </a>
+                            <a href="../pricing.php">
+                                <li class="menu-navigation__item">Pricing</li>
+                            </a>
+                            <a href="../contact.php">
+                                <li class="menu-navigation__item">Contact Us</li>
+                            </a>
+                        </ul>
+                    </div>
+
                 </div>
 
                 <div class="col-md-4">
