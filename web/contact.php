@@ -10,7 +10,9 @@
 </head>
 <body>
     <section class="section-contact-1">
-        <?php include "components/header.php"?>
+        <div class="container">
+            <?php include "components/header.php"?>
+        </div>
     </section>
     <section class="section-contact-2 container-fluid"></section>
     <section class="section-contact-3">
@@ -20,16 +22,15 @@
             <p class="p-for-all">We are here to help. Want to learn more about our services?<br>Please get in touch, we'd love to hear from you!</p>
             <div class="contact-form">
                 <div class="row justify-content-center">
-                    <div class="col-md-6">
+                    <div class="col-lg-5 col-md-8 col-sm-12">
                         <form>
                             <input class="contact-form__input" type="text" placeholder="Name">
                             <input class="contact-form__input" type="text" placeholder="Email">
                             <input class="contact-form__input" type="text" placeholder="Phone">
                             <textarea class="contact-form__textarea" name="message" rows="10" cols="30" placeholder="Message"></textarea>
                         </form>
-                        <button class="head-line__button">Send Message</button>
                     </div>
-                    <div class="col-md-3">
+                    <div class="col-lg-3 col-md-4 col-sm-6">
                         <div class="information">
                             <h5 class="h_color h5_size ">Headquater</h5>
                             <div class="row">
@@ -45,6 +46,9 @@
                                 <p style="color: #0f5f5c; font-weight: 500">hi@wapik.com</p>
                             </div>
                         </div>
+                    </div>
+                    <div class="col-xl-8 col-md-12 col-sm-6">
+                        <button class="head-line__button">Send Message</button>
                     </div>
                 </div>
             </div>

@@ -10,16 +10,18 @@
 </head>
 <body>
     <section class="section-pricing-1">
-        <?php include "components/header.php"?>
-        <div class="features__head">
-            <div class="features__head-pricing">
-                <h1>Get Started with Wapik Today<br>All Plans include a 30-Day Trial Period</h1>
-                <p class="p-for-all">Cras mattis consectetur purus sit amet fermentum</p>
+        <div class="container">
+            <?php include "components/header.php"?>
+            <div class="features__head">
+                <div class="features__head-pricing">
+                    <h1>Get Started with Wapik Today<br>All Plans include a 30-Day Trial Period</h1>
+                    <p class="p-for-all">Cras mattis consectetur purus sit amet fermentum</p>
+                </div>
             </div>
-        </div>
-        <?php include "components/pricing-table.php" ?>
-        <div class="section-pricing-1__limited features__head">
-            <p class="p-for-all">Limited Time Offer. All plans are FREE 14 days!</p>
+            <?php include "components/pricing-table.php" ?>
+            <div class="section-pricing-1__limited features__head">
+                <p class="p-for-all">Limited Time Offer. All plans are FREE 14 days!</p>
+            </div>
         </div>
     </section>
     <section class="section-pricing-2">

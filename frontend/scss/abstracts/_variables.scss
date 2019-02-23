@@ -8,27 +8,3 @@ $div-te:            #f2f2f2;
 $button-color:      rgba(255, 255, 255, 0.35);
 $line:              rgba(255, 255, 255, 0.2);
 $h-color:           rgba(131, 167, 165, 0.5);
-
-$grid-breakpoints: ();
-$grid-breakpoints: map-merge(
-                (
-                        xs: 0,
-                        sm: 576px,
-                        md: 768px,
-                        xl: 1100px,
-                        tv: 1600px
-                ),
-                $grid-breakpoints
-);
-
-$container-max-widths: ();
-// stylelint-disable-next-line scss/dollar-variable-default
-$container-max-widths: map-merge(
-                (
-                        sm: 540px,
-                        md: 720px,
-                        xl: 1040px,
-                        tv: 1540px
-                ),
-                $container-max-widths
-);
