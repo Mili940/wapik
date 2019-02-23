@@ -113,7 +113,7 @@
     padding: 0 15px;
   }
 
-  .section-home-7 {
+  .section-home-7, .section-about-4, .section-pricing-3, .section-contact-4{
     padding: 30px 0;
   }
 
@@ -131,6 +131,24 @@
   .section-about-4{
     padding: 30px 0;
   }
+
+  .section-contact-1, .section-pricing-1{
+
+    .menu-navigation__item {
+      color: #fff!important;
+      &:hover{
+        color: #bec8c8!important;
+      }
+    }
+    .menu-btn {
+      color: #0f5f5c;
+    }
+  }
+
+  .section-contact-2 {
+    height: 300px;
+  }
+
 }
 
 @media (min-width: 1024px) and (max-width: 1199px) {
