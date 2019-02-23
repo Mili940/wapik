@@ -86,13 +86,13 @@
                     <div class="check">
                         <div class="row">
                             <img class="check__img" src="img/home/vector_s_o.png">
-                            <p class="check__p">Integer posuere erat a ante venenatis dapibus posuere velit.</p>
+                            <p class="check__p">Integer posuere erat a ante venenatis dapibus.</p>
                         </div>
                     </div>
                     <div class="check">
                         <div class="row">
                             <img class="check__img" src="img/home/vector_s_o.png">
-                            <p class="check__p">Donec id elit non mi porta gravida at eget metus.</p>
+                            <p class="check__p">Donec id elit non mi porta gravida at eget.</p>
                         </div>
                     </div>
                 </div>

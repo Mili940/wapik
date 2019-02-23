@@ -48,10 +48,10 @@
             </div>
             <div class="bottom-menu">
                 <div class="row justify-content-between">
-                    <div class="col-lg-3 col-md-3 col-sm-6 col-6">
+                    <div class="col-lg-3 col-md-3 col-sm-6 col-12">
                         <p class="p_all">All rights reserved 2015.</p>
                     </div>
-                    <div class="col-lg-3 col-md-4 col-sm-4 col-6">
+                    <div class="col-lg-3 col-md-4 col-sm-5 col-12">
                         <div class="footer__social">
                             <div class="row justify-content-between">
                                 <div class="social twitter">
