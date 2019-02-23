@@ -39,7 +39,7 @@
                         <div class="col-xl-6 col-lg-12">
                             <div class="row">
                                 <img class="img_colum" src="img/home/icon_o/vector_o_1.png">
-                                <h3>Cross Browser Compatibility</h3>
+                                <h3>Browser Compatibility</h3>
                             </div>
                             <p class="p-for-all">Donec ullamcorper nulla non metus auctor fringilla. Donec id elit non mi porta gravida at eget metus.</p>
                         </div>
