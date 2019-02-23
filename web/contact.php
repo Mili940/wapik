@@ -47,7 +47,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-xl-8 col-md-8 col-sm-6">
+                    <div class="col-xl-8 col-md-12 col-sm-6">
                         <button class="head-line__button">Send Message</button>
                     </div>
                 </div>
