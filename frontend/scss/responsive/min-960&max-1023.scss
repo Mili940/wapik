@@ -4,6 +4,10 @@
   .slick-list {
     width: 850px !important;
   }
+
+  .header__button {
+    display: none;
+  }
 }
 
 @media (max-width: 991px) {
@@ -36,6 +40,11 @@
     margin: auto;
     width: 290px !important;
   }
+
+  .menu-navigation {
+    right: 117px;
+  }
+
 }
 
 @media (min-width: 1024px) and (max-width: 1199px) {
@@ -43,16 +52,50 @@
   .ourTeamImg {
     width: 260px;
   }
+
   .positionPara {
     margin: 0px 0 0 12px;
   }
 }
 
-@media only screen and (max-width: 1023px){
+@media (max-width: 1023px){
 
   .positionPara {
     margin: 0px 0 0 63px;
   }
+
+  .menu-btn {
+    position: relative;
+    top: 12px;
+    right: 15px;
+    display: block;
+    margin-left: auto;
+    background: none;
+    border: none;
+    color: #ffffff;
+  }
+
+  .menu-navigation {
+    position: fixed;
+    top: 83px;
+    bottom: 0;
+    height: 160px;
+    z-index: 10000;
+    right: -100%;
+    font-size: 20px;
+    background-color: #83a7a5;
+  }
+
+  .menu-navigation__list {
+    display: inline-block;
+  }
+  .header__button, .contact-phone, .line {
+    display: none;
+  }
+  .toggled .menu-navigation {
+    right: 0;
+  }
+
 }
 /* {
   .menu-btn {
