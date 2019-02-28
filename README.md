@@ -12,4 +12,4 @@ Download project, set up your environment.
 ## Authors  
 
 - **Achmad Kamal** - *Designer*
-- **Milan** - *Developer* - [Profile](https://github.com/Mili940)
+- **Milan** - *Developer* - [Profile](https://www.linkedin.com/in/milan-milinkovic-b697a8136)
